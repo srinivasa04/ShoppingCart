@@ -1,4 +1,4 @@
-# Anagram Finder - instructions to execute
+# Shopping Cart - instructions to execute
 
 ## Prerequisite software
 1) JDK 17
